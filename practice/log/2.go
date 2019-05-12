@@ -25,8 +25,8 @@ func main() {
 
 func lissajous(out io.Writer) {
 	const(
-		cycles =5
-		res =0.001
+		cycles = 5
+		res = 0.001
 		size = 100
 		nframes= 64
 		delay = 8
