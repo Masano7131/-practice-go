@@ -3,9 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	var (
-		x, y int
-	)
-	fmt.Scan(&x, &y)
-	
+	var N, M int
+	fmt.Scan(&N, &M)
 }
